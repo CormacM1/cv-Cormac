@@ -14,9 +14,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Education
 <br>
-*Cornell University*, B.A. Environmental Engineering    [**2022**]{style="float:right"}
+* *Cornell University*, B.A. Environmental Engineing    [**2022**]{style="float:right"}
 
-*Cornell University*, Ph.D. Environmental Engineering [**2027**]{style="float:right"}
+* *Corc University*, Ph.D. Environmental Engineering [**2027**]{style="float:right"}
 
 
 
@@ -94,6 +94,37 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Employment
 
-*Cornell University*, Research Assistant^[Work taken over the summer.]    [**2022-2024**]{style="float:right"} 
+* *National Institutes of Hlth*, Highschool Intern    [**2016-2018**]{style="float:right"}
+  * Worked with the lab of Dr. Richard Veech & Dr. Bill Curtis to explore effects of Parkinson's Disease on rodent brains, to progress research on treatment.
+  
+* *Cornell University*, Resrch Assistant^[Work taken over the summer.]    [**2022-2024**]{style="float:right"} 
+  * Research was performed with Dr. Tammo Steenhuis in the Soil/Water Lab to further his project of altering New York groundwater law in favor of state farmers disadvantaged by current regulations.
 
-*Cornell University*, Assistant Professor  [**2027-Present**]{style="float:right"} 
+*Cornell University*, Assnt Professor  [**2027-Present**]{style="float:right"} 
+
+
+```{css, echo=FALSE}
+h1, h2, h3 {
+  text-align: center;
+}
+```
+
+
+```{r, echo=FALSE, out.width="50%", fig.cap="A nice image."}
+knitr::include_graphics("https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_square.jpg")
+```
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+For PDF Output:
+$$
+x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
+$$
