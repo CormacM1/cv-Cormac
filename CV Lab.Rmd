@@ -1,0 +1,99 @@
+---
+title: "Cormac Mahoney"
+date: '**2023**-01-27'
+output: 
+  html_document:
+    toc: true
+    toc_depth: 2
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+<br>
+
+# Education
+<br>
+*Cornell University*, B.A. Environmental Engineering    [**2022**]{style="float:right"}
+
+*Cornell University*, Ph.D. Environmental Engineering [**2027**]{style="float:right"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# Employment
+
+*Cornell University*, Research Assistant^[Work taken over the summer.]    [**2022-2024**]{style="float:right"} 
+
+*Cornell University*, Assistant Professor  [**2027-Present**]{style="float:right"} 
